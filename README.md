@@ -1,4 +1,4 @@
-# EventOps — Event Management Software
+# EventNest — Event Management Software
 
 Run the show. Not six WhatsApp groups. AI-powered checklists, vendor approvals, and team coordination for event agencies and wedding planners.
 
